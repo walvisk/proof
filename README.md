@@ -15,5 +15,8 @@ Run `go clean -testcache && go test`
 
 ## TODO
 
-- [] stdout formatting
-- [] a lot of todo
+- [ ] stdout formatting
+- [ ] a lot of todo
+
+## Announcement
+Development will be postponed due tue higher workload
